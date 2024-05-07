@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "848668496604",
+    "project_id": "bloom-97ea1",
+    "storage_bucket": "bloom-97ea1.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:848668496604:android:202b5198b83941d3c75a19",
+        "android_client_info": {
+          "package_name": "com.example.bloom"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD7BYWgbrWM06SEw3FMzatt8JphckkhxhY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
